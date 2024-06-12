@@ -1,5 +1,4 @@
 # TradingBot
-![Build Status](https://github.com/ilcardella/TradingBot/workflows/TradingBot%20CI/badge.svg) ![Documentation Status](https://readthedocs.org/projects/tradingbot/badge/?version=latest) ![Docker Pulls](https://img.shields.io/docker/pulls/ilcardella/tradingbot)
 
 This is an attempt to create an autonomous market trading script using the IG
 REST API and any other available data source for market prices.
